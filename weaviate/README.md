@@ -36,7 +36,8 @@ github地址:https://github.com/weaviate/weaviate
 按照如下截图删除镜像                
 <img src="./image/006.png" alt="" width="900" />    
 删除完成后，进入到压缩文件所在的目录，执行如下命令加载本地镜像文件          
-**注意：** 这里镜像文件使用上步生成的,若无条件生成文件可直接使用为大家准备好的dockerImage文件下的包                  
+**注意：** 这里镜像文件使用上步生成的(若无条件生成文件可点击下面链接下载提前准备好的文件)                       
+链接: https://pan.baidu.com/s/1DXSwlp5FGuvIHQOC88QlkQ?pwd=gvjm 提取码: gvjm                             
 `docker load -i weaviate.tar`                     
 命令执行后，再执行`docker images`查看是否加载成功，如下截图             
 <img src="./image/007.png" alt="" width="900" />                  
