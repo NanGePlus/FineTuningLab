@@ -1,0 +1,17 @@
+accelerate==0.29.2
+astunparse==1.6.3
+bitsandbytes==0.41.3
+cpm-kernels==1.0.11
+datasets==2.20.0
+nltk==3.8.1
+peft==0.11.1
+sentencepiece==0.1.99
+torch==2.1.0
+transformers==4.44.2
+scipy==1.10.1
+gradio==3.50.2
+tiktoken==0.7.0
+tensorboard==2.16.2
+weaviate-client==3.26.7
+python-dotenv==1.0.1
+ruamel_yaml>=0.18.6
