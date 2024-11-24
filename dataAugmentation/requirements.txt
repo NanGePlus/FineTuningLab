@@ -1,0 +1,6 @@
+langchain==0.3.3
+langchain-openai==0.2.2
+tqdm==4.67.0
+weaviate-client==3.26.7
+python-dotenv==1.0.1
+requests==2.32.3
