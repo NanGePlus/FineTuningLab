@@ -31,9 +31,11 @@ GPU选择确定后，单击n卡可租进入创建实例页面，并按照如下�
 考虑到国内访问HuggingFace比较慢，这里使用hf-mirror，官网链接 https://hf-mirror.com/Qwen/Qwen2.5-7B-Instruct           
 <img src="./image/009.png" alt="" width="900" />            
 执行如下命令行进行模型下载:          
-`cd /root/autodl-tmp`                             
+`cd /root/autodl-tmp`   
+`sudo apt-get update`                     
+`sudo apt-get install git-lfs`                      
 `git lfs install`                              
-`git clone https://hf-mirror.com/Qwen/Qwen2.5-7B-Instruct`                                 
+`git clone https://hf-mirror.com/Qwen/Qwen2.5-7B-Instruct`                                     
 或执行如下(二选一即可)                
 `git clone https://www.modelscope.cn/Qwen/Qwen2.5-7B-Instruct.git`                                  
 执行完成后，耐心等待下载完成即可，这个过程需要持续大概30分钟左右                 
