@@ -2,6 +2,10 @@
 项目对应视频:爆肝制作两小时+超长烧脑硬核干货，手把手带你超低成本玩转大模型微调Fine-Tuning应用，闭环的垂直应用案例、项目源码剖析、详实的图文手册、全流程实操演示                              
 https://youtu.be/aHjNlTxcMGQ           
 
+**南哥AGI研习社YouTube频道:** https://www.youtube.com/@NangePlus2024      
+**南哥AGI研习社B站频道:** https://space.bilibili.com/509246474                   
+
+
 ## 1.1 项目简介       
 本项目旨在提供一个微调酒店推荐垂直领域大模型并应用的完整闭环案例作为大家的参考案例。本项目使用的基础大模型为Qwen2.5-7B-Instruct                               
 **完整的垂直应用案例闭环**                   
