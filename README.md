@@ -24,6 +24,9 @@
 轻量化微调流程图               
 <img src="./002.png" alt="" width="900" />                   
 
+## 1.4 开源分享不易，请我用token       
+<img src="./003.png" alt="" width="300" />           
+
 
 # 2、前期准备工作
 ## 2.1 开发环境搭建:anaconda、pycharm
