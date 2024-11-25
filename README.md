@@ -1,5 +1,6 @@
 # 1、项目介绍 
-**项目对应视频:**                                          
+**项目对应视频:**                                  
+https://www.bilibili.com/video/BV1NVzwYnEwJ/?vd_source=30acb5331e4f5739ebbad50f7cc6b949                
 https://youtu.be/aHjNlTxcMGQ           
 
 免费开源分享AGI(通用人工智能)相关硬核干货。干货很硬不要怕，南哥带你搞定它                   
