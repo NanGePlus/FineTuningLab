@@ -22,10 +22,7 @@
 不严谨的类比，通俗理解什么是大模型微调        
 <img src="./001.png" alt="" width="900" />            
 轻量化微调流程图               
-<img src="./002.png" alt="" width="900" />                   
-
-## 1.4 开源分享不易，请我用token       
-<img src="./003.png" alt="" width="300" />           
+<img src="./002.png" alt="" width="900" />                      
 
 
 # 2、前期准备工作
