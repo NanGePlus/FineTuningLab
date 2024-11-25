@@ -2,6 +2,7 @@
 项目对应视频:爆肝制作两小时+超长烧脑硬核干货，手把手带你超低成本玩转大模型微调Fine-Tuning应用，闭环的垂直应用案例、项目源码剖析、详实的图文手册、全流程实操演示                              
 https://youtu.be/aHjNlTxcMGQ           
 
+免费开源分享AGI(通用人工智能)相关硬核干货。干货很硬不要怕，南哥带你搞定它                   
 **南哥AGI研习社YouTube频道:** https://www.youtube.com/@NangePlus2024      
 **南哥AGI研习社B站频道:** https://space.bilibili.com/509246474                   
 
